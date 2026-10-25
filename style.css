@@ -1,8 +1,8 @@
 
 :root {
-  --primary: #4f46e5;          /* indigo */
-  --primary-dark: #4338ca;
-  --accent: #22c55e;           /* green */
+  --primary: #2ac754;          /* indigo */
+  --primary-dark: #e28150;
+  --accent: #9affbf;           /* green */
   --bg: #eef1f6;
   --card-bg: #ffffff;
   --text: #1f2937;
@@ -35,7 +35,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
-  background: linear-gradient(135deg, var(--primary), #7c3aed);
+  background: linear-gradient(135deg, var(--primary), #17a7cf);
   color: #fff;
   box-shadow: var(--shadow);
   position: sticky;
